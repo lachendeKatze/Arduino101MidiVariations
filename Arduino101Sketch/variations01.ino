@@ -41,7 +41,7 @@ class MidiButtons{
   uint8_t currentPressed = 255;
 
  // button debouncing
- long pressDelay = 50;
+ long pressDelay = 10;
  long previousTime, currentTime;
  boolean b1, b2, b3, b4, b5, b6;
  
