@@ -21,6 +21,9 @@
 // MRP121test.ino Written by Limor Fried/Ladyada for Adafruit Industries. (BSD License)
 // https://github.com/adafruit/Adafruit_MPR121/blob/980511c0bb52f78a136e679357f6e5f0d7b65518/examples/MPR121test/MPR121test.ino 
 
+// 5/13/17 - 5/15/17 Variations on a Theme - Don Coleman's Arduino101 Bluetooth Midi Controller rewritten for push buttons
+
+
 #include <CurieBLE.h>
 
 class MidiButtons{
